@@ -1,0 +1,11 @@
+{
+    "root": "http://127.0.0.1:12356",
+    "login":{
+        "url": "/login",
+        
+        "body": {
+            "username": "name",
+            "password": "password"
+        }
+    }
+}
